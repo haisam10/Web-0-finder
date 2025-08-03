@@ -36,7 +36,7 @@ Happy Hacking (^-^)
 প্রথমে তোমার সিস্টেমে Python 3.x ইনস্টল আছে কি না নিশ্চিত হও। এরপর নিচের ধাপগুলো অনুসরণ করো:
 
 ১. প্রজেক্টটি ক্লোন করুন (অথবা কোড ডাউনলোড করুন):
-- git clone https://github.com/your-username/web-0-finder.git
+- git clone https://github.com/haisam10/Web-0-finder.git
 - cd web-0-finder
 - pip install requests beautifulsoup4
 - python web_0_finder.py
