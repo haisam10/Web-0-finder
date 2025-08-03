@@ -10,9 +10,9 @@
 `
                                                                
 
-MD Haisam Hoque
-Portfolio
-Made in Bangladesh 🇧🇩
+Made in Bangladesh
+Owner: MD Haisam Hoque
+webpage link: https://haisam10.github.io/freelancer/
 version: 1.0
 Happy Hacking (^-^)
 ```
